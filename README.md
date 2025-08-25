@@ -36,4 +36,4 @@ This project visualizes nesting sites of the loggerhead sea turtle (*Caretta car
 
 ## Map Preview
 
-![Caretta caretta map](map.png)
+![Caretta caretta map](map_screenshot.png)
