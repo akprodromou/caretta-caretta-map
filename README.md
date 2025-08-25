@@ -34,3 +34,6 @@ This project visualizes nesting sites of the loggerhead sea turtle (*Caretta car
 
 3. Run the Jupyter notebook to generate the map.
 
+## Map Preview
+
+![Caretta caretta map](map.png)
